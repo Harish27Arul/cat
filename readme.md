@@ -1,9 +1,15 @@
-# Overviw
-ON --> This button will switch on the light and cat in the dark will be visible
-OFF --> This button will switch off the light and cat becomes invisible except the eyes
+# Overview
+
+**ON** → This button switches on the light, and the cat becomes visible in the dark.
+
+**OFF** → This button switches off the light, and the cat becomes invisible except for its eyes.
 
 # Technically
-ON --> On clicking the ON buton the javascript will manipulate the the bulb and cat src image to visible image src
-OFF --> On clicking the OFF button the javascript will manipulate the bulb and cat  src image invisible image src
 
-# just learning...😊
+**ON** → When the **ON** button is clicked, JavaScript changes the bulb and cat image `src` to the visible image sources.
+
+**OFF** → When the **OFF** button is clicked, JavaScript changes the bulb and cat image `src` to the invisible image sources.
+
+# Purpose
+
+Just learning... 😊
